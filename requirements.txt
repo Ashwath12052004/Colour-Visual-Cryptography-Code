@@ -1,0 +1,21 @@
+# Python dependencies for the CVC Enhancement and Sharing Pipeline
+
+# Core Libraries (Data Handling and Math)
+numpy
+pandas # For statistical calculations (if implemented)
+
+# Image Processing and Computer Vision
+opencv-python
+scikit-image # Used specifically for shannon_entropy
+
+# Deep Learning (Autoencoder)
+torch
+torchvision # Recommended for complete environment setup
+
+# Cryptography (AES-256 and Padding)
+pycryptodome # Provides the AES cipher and padding utilities
+
+# Visualization (Testing and Debugging)
+matplotlib
+
+# Note: Ensure these versions are compatible with your Colab environment.
